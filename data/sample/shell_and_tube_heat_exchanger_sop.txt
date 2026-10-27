@@ -1,0 +1,13 @@
+# ENGINEERING STANDARD: SHELL & TUBE HEAT EXCHANGER THERMAL MONITORING
+Document ID: STD-HX-205
+Revision: 2.0
+Equipment: Crude Pre-Heat Exchanger E-104
+
+SECTION 1: FOULING FACTOR AND CLEANING CRITERIA
+The thermal performance of Exchanger E-104 is governed by the progressive accumulation of asphaltic coke scale and mineral fouling on the internal tube surfaces. The design asymptotic fouling resistance (Rf) is 0.00035 m²·K/W. When the measured fouling resistance exceeds 0.00060 m²·K/W, the overall heat transfer coefficient (U) drops by more than 28%, necessitating automated chemical backflushing or offline high-pressure hydro-jetting at 1000 bar.
+
+SECTION 2: ALLOWABLE DIFFERENTIAL PRESSURE LIMITS
+The nominal differential pressure across the 2-pass carbon steel tube bundle is 0.35 bar at design feed throughput of 450 m³/h. An increase in differential pressure beyond 0.70 bar indicates severe flow blockage or heavy wax deposition inside the 19.05 mm OD seamless tubes. Operation with tube bundle differential pressure exceeding 1.10 bar is strictly prohibited to avoid permanent tube sheet deflection and expansion joint failure.
+
+SECTION 3: CORROSION CONTROL AND SACRIFICIAL ANODES
+To mitigate galvanic corrosion between the Admiralty brass tubes and carbon steel tube sheets in cooling water services, sacrificial zinc anodes are installed in both channel heads. The anodes must be visually inspected every 6 months during scheduled unit turnaround. If more than 50% of the active zinc volume has depleted, the anode assembly must be replaced immediately.

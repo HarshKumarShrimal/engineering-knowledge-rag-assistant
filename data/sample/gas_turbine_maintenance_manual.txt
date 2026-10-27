@@ -1,0 +1,13 @@
+# TECHNICAL MANUAL: GAS TURBINE OPERATIONS & COMPRESSOR INTEGRITY
+Document ID: TM-GT-402
+Revision: 4.1
+Equipment: Industrial Heavy-Duty Gas Turbine Model GT-9000
+
+SECTION 1: TURBINE INLET TEMPERATURE (TIT) LIMITS AND MONITORING
+The maximum allowable Turbine Inlet Temperature (TIT) during steady-state base load operation is strictly limited to 1420 Kelvin (1147 °C). Continuous operation exceeding 1435 Kelvin accelerates high-pressure turbine blade thermal barrier coating (TBC) degradation and induces creep rupture within the single-crystal superalloy first-stage buckets. If the exhaust gas temperature (EGT) thermocouple spread across the 24 radial sectors exceeds 35 Kelvin, the control system triggers an immediate alarm for combustor flame instability or fuel nozzle cocking.
+
+SECTION 2: AXIAL COMPRESSOR STALL MARGIN AND VSV CONTROL
+To prevent aerodynamic surge and rotating stall during transient acceleration, the axial compressor must maintain a minimum surge margin of 15.0% relative to the steady-state operating line. Variable Stator Vanes (VSVs) across stages 0 through 4 are modulated electro-hydraulically as a function of corrected rotor speed (N/√θ). During startup below 70% rated speed, the compressor inter-stage bleed valves (located at stages 6 and 11) must remain locked in the 100% open position to dump excess mass flow and prevent low-pressure choke.
+
+SECTION 3: LUBRICATION OIL SYSTEM & JOURNAL BEARING LIMITS
+The synthetic polyolester lubricating oil must be delivered to the generator and turbine tilting-pad journal bearings at a regulated header pressure of 2.1 to 2.4 bar and temperature of 45 °C to 50 °C. The maximum allowable bearing babbitt metal temperature is 105 °C; any bearing temperature exceeding 115 °C initiates an automatic emergency trip to prevent wiped babbitt liners and catastrophic rotor unbalance.

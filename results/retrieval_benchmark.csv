@@ -1,0 +1,5 @@
+mode,recall@3,mrr@3,ndcg@3,abstention_accuracy,avg_latency_ms
+lexical,1.0,1.0,1.0,1.0,0.05
+dense,1.0,1.0,1.0,1.0,0.26
+hybrid,1.0,1.0,1.0,1.0,0.31
+reranked,1.0,1.0,1.0,1.0,0.33

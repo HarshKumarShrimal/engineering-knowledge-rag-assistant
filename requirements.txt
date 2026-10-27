@@ -1,0 +1,15 @@
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+python-multipart>=0.0.9
+
+# Document Parsing & Retrieval
+pypdf>=5.0.0
+rank-bm25>=0.2.2
+scikit-learn>=1.2.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Testing & Client
+pytest>=7.3.0
+httpx>=0.24.0

@@ -1,0 +1,13 @@
+# STANDARD OPERATING PROCEDURE: API 610 CENTRIFUGAL PUMPS & MECHANICAL SEALS
+Document ID: SOP-PMP-108
+Revision: 3.2
+System: Hydrocarbon Process Feed Pump Unit P-301A/B
+
+SECTION 1: NPSH MARGIN AND CAVITATION SUPPRESSION
+To avoid destructive hydraulic cavitation, the Net Positive Suction Head Available (NPSHA) at the pump suction nozzle must exceed the Net Positive Suction Head Required (NPSHR) by a minimum safety margin of 1.20 (i.e. NPSHA >= 1.2 * NPSHR) or 1.0 meter, whichever is greater. Incipient cavitation is characterized by high-frequency acoustic emissions resembling marbles or gravel passing through the volute casing, rapid discharge pressure fluctuations exceeding 5%, and localized erosion pitting on the suction eye of the 316L stainless steel impeller.
+
+SECTION 2: MECHANICAL SEAL PIPING PLANS (API 682)
+The double-containment pressurized mechanical seal is configured according to API 682 Piping Plan 53B with an external accumulator reservoir. The synthetic barrier fluid pressure must be maintained at a minimum of 1.4 bar (20 psi) above the maximum expected seal chamber stuffing box pressure. If the barrier fluid pressure drops below 1.0 bar differential, an alarm triggers to prevent process hydrocarbon leakage across the primary silicon carbide seal faces.
+
+SECTION 3: VIBRATION MONITORING AND ALARM THRESHOLDS
+Continuous radial and axial vibration is monitored via dual eddy-current proximity probes installed at the drive-end and non-drive-end bearing housings. Per ISO 10816-3 Class II machinery guidelines, overall vibration velocity must remain below 2.8 mm/s RMS for unconstrained continuous operation. An alarm is annunciated at 4.5 mm/s RMS, and an automatic shutdown trip occurs if vibration reaches 7.1 mm/s RMS to prevent catastrophic shaft deflection or coupling failure.

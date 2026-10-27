@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "engineering-knowledge-rag-assistant"
+version = "0.1.0"
+description = "Engineering Document Assistant with Hybrid Retrieval, Grounded Citations, and Evidence-Based Abstention"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Harsh Kumar Shrimal", email = "hshrimal99@gmail.com"}
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
